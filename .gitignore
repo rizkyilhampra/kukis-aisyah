@@ -127,4 +127,4 @@ nb-configuration.xml
 /*.zip
 /tests/*
 /stisla/*
- 
+/writable/*
