@@ -21,9 +21,9 @@ $routes->setDefaultController('Home');
 $routes->setDefaultMethod('index');
 $routes->setTranslateURIDashes(false);
 $routes->set404Override(
-    // function(){
-    //     echo view('error-404-v');
-    // }
+    function(){
+        echo view('error-404-v');
+    }
 );
 // The Auto Routing (Legacy) is very dangerous. It is easy to create vulnerable apps
 // where controller filters or CSRF protection are bypassed.
