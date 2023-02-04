@@ -28,6 +28,12 @@ Sistem berbasis web ini dibangun menggunakan Codeigniter 4 untuk memenuhi mata k
 - [Selecao](https://bootstrapmade.com/) (User Page)
 - [Stisla](https://github.com/stisla/stisla) (Admin Page)
 
+## Screenshot
+
+![halaman awal admin](https://i.postimg.cc/GmzSFMnd/screencapture-kukisaisyah-my-id-admin-2023-02-05-01-05-31.png)
+
+![halaman landing](https://i.postimg.cc/521CPkxP/screencapture-kukisaisyah-my-id-2023-02-05-01-06-41.png)
+
 ## Note
 
 1. Sistem ini tidak digunakan sebagai komersil kecuali informasi yang ada didalamnya. Keseluruhan sistem berada dalam pengawasan penulis
